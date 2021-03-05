@@ -21,10 +21,10 @@
 * update/upgrade packages
   * ``sudo apt update``
   * ``sudo apt upgrade``
-  * Pin your Ubuntu file tree to start
-    * at the top level of your Ubuntu type:
-      * `explorer.exe .`
-    * save the explorer window that pops up
+* Pin your Ubuntu file tree to start
+  * at the top level of your Ubuntu type:
+    * `explorer.exe .`
+  * save the explorer window that pops up
 
 ## Git
 

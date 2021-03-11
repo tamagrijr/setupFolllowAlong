@@ -2,9 +2,9 @@
 
 ## Jump to what you need
 
-### [Basic Git Commands](#git-commands)
+### [Basic Git Commands](#basic-git-commands)
 
-## Basic [git commands](https://git-scm.com/docs) {#git-commands}
+## Basic [git commands](https://git-scm.com/docs)
 
 **These commands are for git on your local computer, git and github
 are two separate things. If you're curious

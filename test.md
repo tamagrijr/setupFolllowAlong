@@ -2,7 +2,11 @@
 
 ## Jump to what you need
 
-### [Basic Git Commands](#basic-git-commands)
+* ### [Basic Git Commands](#basic-git-commands)
+* ### [Pairing Setup](#basic-setup-for-pairing)
+  * ### [Creating a GitHub Repo](#creating-a-repo)
+  * ### [Connecting to a GitHub Repo](#cloning-a-repo)
+* ### [Git Flow](#basic-git-flow-for-pairing)
 
 ## Basic [git commands](https://git-scm.com/docs)
 

@@ -97,3 +97,9 @@ to follow your partner on github!
 ---
 
 ## Basic git flow for pairing
+
+Once you and your pair are set up and working on the same repository things get a lot easier. As you switch back and forth from driver to navigator you will need to follow these steps.
+
+Steps for the driver:
+
+* Save your work

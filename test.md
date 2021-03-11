@@ -8,6 +8,8 @@
   * ### [Connecting to a GitHub Repo](#cloning-a-repo)
 * ### [Git Flow](#basic-git-flow-for-pairing)
 
+---
+
 ## Basic [git commands](https://git-scm.com/docs)
 
 **These commands are for git on your local computer, git and github
@@ -42,6 +44,8 @@ are two separate things. If you're curious
   Tech is ever evolving and in keeping up with the times it's best to be proactive  
   and change our main branch name to something more appropriate. This is a trend  
   in tech that you should get used to.
+
+---
 
 ## Basic setup for pairing
 
@@ -89,5 +93,7 @@ where you can copy the link
 *`git clone "copied-link"`*
 * You should now have all of the files and directories on your local machine, don't foreget  
 to follow your partner on github!
+
+---
 
 ## Basic git flow for pairing
